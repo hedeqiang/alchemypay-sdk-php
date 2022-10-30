@@ -26,10 +26,9 @@ $ composer require hedeqiang/alchemypay -vvv
 require __DIR__ .'/vendor/autoload.php';
 use Hedeqiang\AlchemyPay\Pay;
 $app = new Pay([
-    'privateKey' => '/parth/client.pfx',
-    'publicKey'  => 'path/test.cer',  // 注意： 此公钥为首信易的公钥、并非上传到商户后台的公钥！！！
-    'merchantId' => '890000593',
-    'password'   => '123456',
+    'endpoint'     => 'xxx',
+    'merchantCode' => 'xxx',
+    'privateKey' => 'xxx',
 ]);
 ```
 
