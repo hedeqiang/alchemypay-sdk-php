@@ -1,10 +1,6 @@
 # AlchemyPay SDK for PHP
 
-[![PHP Version Require](http://poser.pugx.org/hedeqiang/alchemypay-sdk-php/require/php)](https://packagist.org/packages/hedeqiang/alchemypay-sdk-php)
-[![Latest Stable Version](https://poser.pugx.org/hedeqiang/alchemypay-sdk-php/v)](//packagist.org/packages/hedeqiang/alchemypay-sdk-php)
-[![Total Downloads](https://poser.pugx.org/hedeqiang/alchemypay-sdk-php/downloads)](//packagist.org/packages/hedeqiang/alchemypay-sdk-php)
-[![Latest Unstable Version](https://poser.pugx.org/hedeqiang/alchemypay-sdk-php/v/unstable)](//packagist.org/packages/hedeqiang/alchemypay-sdk-php)
-[![License](https://poser.pugx.org/hedeqiang/alchemypay-sdk-php/license)](//packagist.org/packages/hedeqiang/alchemypay-sdk-php)
+[![Latest Stable Version](http://poser.pugx.org/hedeqiang/alchemypay/v)](https://packagist.org/packages/hedeqiang/alchemypay) [![Total Downloads](http://poser.pugx.org/hedeqiang/alchemypay/downloads)](https://packagist.org/packages/hedeqiang/alchemypay) [![Latest Unstable Version](http://poser.pugx.org/hedeqiang/alchemypay/v/unstable)](https://packagist.org/packages/hedeqiang/alchemypay) [![License](http://poser.pugx.org/hedeqiang/alchemypay/license)](https://packagist.org/packages/hedeqiang/alchemypay) [![PHP Version Require](http://poser.pugx.org/hedeqiang/alchemypay/require/php)](https://packagist.org/packages/hedeqiang/alchemypay)
 [![Tests](https://github.com/hedeqiang/alchemypay-sdk-php/actions/workflows/test.yml/badge.svg)](https://github.com/hedeqiang/payease/actions/workflows/test.yml)
 
 ## 环境需求
